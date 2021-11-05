@@ -11,18 +11,18 @@
     "css": "^3.0.0",
     "eslint-plugin-react": "^7.26.1",
     "jquery": "^3.6.0",
-    "react": "16.5.2",
-    "react-dom": "16.5.2",
-    "react-hot-loader": "4.3.11"
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hot-loader": "4.13.0"
   },
   "devDependencies": {
-    "babel-loader": "8.0.2",
-    "css-loader": "1.0.0",
+    "babel-loader": "8.2.3",
+    "css-loader": "6.5.1",
     "eslint": "^8.1.0",
-    "style-loader": "0.23.0",
-    "webpack": "4.19.1",
-    "webpack-cli": "3.1.1",
-    "webpack-dev-server": "3.1.8"
+    "style-loader": "3.3.1",
+    "webpack": "5.61.0",
+    "webpack-cli": "4.9.1",
+    "webpack-dev-server": "4.4.0"
   },
   "scripts": {
     "start": "webpack-dev-server --mode development"
